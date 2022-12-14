@@ -1,5 +1,14 @@
+h2{
+    border-bottom: solid lightgray;
+}
+
 .centr {
-    width: 690px;
+    width: 400px;
     margin: 10px auto 10px;
     font-family: 'Helvetica', sans-serif;
+}
+
+.notranslate{
+    background-color: lightgrey;
+    border-radius: 5px;
 }
